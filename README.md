@@ -1,8 +1,9 @@
-# frontend-docker
+Frontend Docker
+-
 
 Ce projet est créé pour aider à apprendre les configurations de **docker** pour les projets frontaux.
 
-# Prerequisites
+## Pré-requis
 
 Installez [node](https://nodejs.org/en/download/). 
 
